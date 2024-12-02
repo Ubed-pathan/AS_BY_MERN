@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    /* Use Tailwind's font-serif */
+    font-family:'Times New Roman', Times, serif ;/* Set Times New Roman as the default font */
+    background-color: #FBFADA;
+}
